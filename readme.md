@@ -1,5 +1,5 @@
 # git-mini
-Name of Gorup members 
+## Name of Group Members
 
 Dhrupad solanki.
 
