@@ -18,6 +18,7 @@ header {
 header * {
     display: inline;
     height: 50px;
+    width: 50px
 
 }
 

@@ -1,5 +1,5 @@
 # git-mini
-done by 
+## Name of Group Members
 
 Dhrupad solanki.
 
@@ -7,6 +7,9 @@ Brij thota.
 
 Rohit kabra. 
 
-git@github.com:dhrupad09/git-mini.git
+#Index: Link to all files in the repository
+
+1. [Git-mini2.txt] (https://github.com/rohitkabra13/git-mini/blob/patch-3/git-mini2.css)
+
 
 
