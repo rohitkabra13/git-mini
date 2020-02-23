@@ -1,11 +1,10 @@
 # git-mini
 done by 
-dhrupad solanki.
 
+Dhrupad solanki.
 
-brij thota. 
+Brij thota. 
 
-
-rohit kabra. 
+Rohit kabra. 
 
 
