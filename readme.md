@@ -1,5 +1,5 @@
 # git-mini
-done by 
+Name of Gorup members 
 
 Dhrupad solanki.
 
@@ -7,6 +7,5 @@ Brij thota.
 
 Rohit kabra. 
 
-git@github.com:dhrupad09/git-mini.git
 
 
