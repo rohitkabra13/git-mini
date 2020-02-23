@@ -13,4 +13,4 @@ Rohit kabra.
 
 2. [git-mini.txt](https://github.com/dhrupad09/git-mini/blob/master/git-mini.html)
 
-3. [tutorial and defination](https://github.com/dhrupad09/git-mini/blob/master/tutorials%26definations.docx)
+3. [tutorial and defination.dox](https://github.com/dhrupad09/git-mini/blob/master/tutorials%26definations.docx)
