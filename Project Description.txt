@@ -2,4 +2,4 @@
 
 ## GIT
 
-Git is a free and open source distributed code management and version control system that is distributed under the GNU General Public License version 2. In addition to software version control, Git is used for other applications including configuration management and content management.
+Git is a free and open source distributed code management and version control system that is distributed under the GNU General Public License version 2. In addition to software version control, Git is used for other applications including configuration management and content management .
