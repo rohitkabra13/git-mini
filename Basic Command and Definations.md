@@ -1,4 +1,4 @@
-#Basic Commands
+# Basic Commands
 
 ### 1. **cd** :
 - The `cd` command stands for change directory. It is a command used to change the current working directory in various operating systems.
