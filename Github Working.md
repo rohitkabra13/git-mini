@@ -4,9 +4,13 @@
 ![](https://user-images.githubusercontent.com/60896891/75186642-57134880-5716-11ea-9dc1-a0ae13e48127.png)
 
 # The GitHub flow:
+
 -	The GitHub flow is a lightweight, branch-based workflow built around core Git commands used by teams around the globe—including ours. 
 
 -	The GitHub flow has six steps, each with distinct benefits when implemented:
+
+![](https://user-images.githubusercontent.com/60896891/75189262-d22b2d80-571b-11ea-9e75-f5994037ce63.png)
+
 
 **Step 1 :** Create a branch: Topic branches created from the canonical deployment branch (usually master) allow teams to contribute to many parallel efforts. Short-lived topic branches, in particular, keep teams focused and results in quick ships.
 
