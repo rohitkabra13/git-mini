@@ -44,11 +44,12 @@
 
 -	The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch, but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
 
-# pull
+# Pull
 -	Pull Request is the way Github provides for author of the code to share his/her code with others, and to allow others to take a look at your code before you merge it to integration branch and leave comments. 
+
 -	I assume you are using Github. Go to your Github repository and you will see tab called Pull Requests. 
  
--	Click on “New Pull Request” button. From here you will see screen named “Comparing Changes” and asking you which branches to compare. Lets say I worked in branch called “delight” and I want to merge back to branch “develop” when I am done with my code, then I will select it like this: 
+-	Click on “New Pull Request” button.  
  
 
 
