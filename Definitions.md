@@ -52,4 +52,11 @@
 
 - As an example, one common use is for continuous integration services to mark commits as passing or failing builds using status. The target_url would be the full URL to the build output, and the description would be the high level summary of what happened with the build.
 
+# Master Branch:
+
+![](https://user-images.githubusercontent.com/60896891/75201772-58a13880-5737-11ea-9d60-275aeeccb8a7.png)
+
+- A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
+- `master` is a naming convention for a branch.
+
 
