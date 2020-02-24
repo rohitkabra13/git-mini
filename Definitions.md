@@ -24,3 +24,10 @@
 - Forking a project is as easy as clicking the Fork button in the header of a repository
 - Once the process is complete, you'll be taken right to your the forked copy of the project so you can start collaborating!
 
+# Clone
+- When you create a new repository on GitHub, Clone exists as a remote location where your project is stored. You can clone your repository to create a local copy on your computer so that you can sync between both the local and remote locations of the project.
+- Unlike forking, you won't be able to pull down changes from the original repository you cloned from
+- If the project is owned by someone else you won't be able to contribute back to it unless you are specifically invited as a collaborator.
+- Cloning is ideal for instances when you need a way to quickly get your own copy of a repository where you may not be contributing to the original project.
+- To clone a repository, head over to the main page of a project and click the Clone or download button to get the the repository's HTTPS or SSH URL. Then, you can perform the clone using the `git clone` command in your command line interface of choice.
+
