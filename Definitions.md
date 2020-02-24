@@ -15,3 +15,12 @@
 - Commits usually contain a commit message which is a brief description of what changes were made.
 - Commit set a message about the progressions you were finished. It saves all the changes made so that one can revert the code at any given time.
 
+
+# Fork
+
+- A fork is a copy of a repository that allows you to freely experiment with changes without affecting the original project.
+- A forked repository differs from a clone in that a connection exists between your fork and the original repository itself.
+- Your fork acts as a bridge between the original repository and your personal copy where you can contribute back to the original project using Pull Requests.
+- Forking a project is as easy as clicking the Fork button in the header of a repository
+- Once the process is complete, you'll be taken right to your the forked copy of the project so you can start collaborating!
+
