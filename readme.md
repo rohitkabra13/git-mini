@@ -1,11 +1,11 @@
 # git-mini
 ## Name of Group Members
 
-Dhrupad solanki.
+- Dhrupad solanki.
 
-Brij thota. 
+- Brij thota. 
 
-Rohit kabra. 
+- Rohit kabra. 
 
 ## Index: Link to all files in the repository
 
