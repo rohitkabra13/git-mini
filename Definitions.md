@@ -24,3 +24,8 @@
 - Forking a project is as easy as clicking the Fork button in the header of a repository
 - Once the process is complete, you'll be taken right to your the forked copy of the project so you can start collaborating!
 
+#Push
+
+-	The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch, but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
+
+
