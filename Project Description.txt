@@ -1,5 +1,100 @@
-# ***Project Description***:
+# Project Description:
 
 ## GIT
 
-Git is a free and open source distributed code management and version control system that is distributed under the GNU General Public License version 2. In addition to software version control, Git is used for other applications including configuration management and content management .
+Git is a free and open source distributed code management and version control system that is distributed under the GNU General Public License version 2. In addition to software version control, Git is used for other applications including configuration management and content management.
+
+## Docker
+
+Docker is a basic tool, like git or java, that you should start incorporating into your daily development and ops practices. Use Docker as version control system for your entire app's operating system. Use Docker when you want to distribute/collaborate on your app's operating system with a team.
+
+## Test automation 
+
+Test automation allows your team to execute more tests in less time, increasing coverage and freeing human testers to do more high-level, exploratory testing. Automation is especially beneficial for test cases that are executed repeatedly, such as those for cross-browser and cross-device compatibility, and those that are part of a full or partial regression suite.
+
+## Continuous integration  
+
+Continuous integration (CI) is the software development practice of regularly integrating code changes into a shared code repository. Typically, this would happen at least once or then several times a day (depending on the number of code commits) and this practice encourages committing small changes more often over committing large changes infrequently. Each commit triggers a build during which tests are run that help to identify if anything was broken by the changes.
+
+1.  The **cd command**, also known as chdir (change directory), is a command-line OS shell command used to change the current working directory in operating systems such as Unix, DOS, OS/2, TRIPOS, AmigaOS (where if a bare path is given, cd is implied), Microsoft Windows, ReactOS, and Linux. It can be used in shell scripts and batch files.
+
+
+Purpose. Use the CREATE DIRECTORY statement to create a directory object. A directory object specifies an alias for a directory on the server file system where external binary file LOBs (BFILEs) and external table data are located.
+
+Press the "Windows-R" keys on your keyboard, type "CMD" in the Open field in the Run box, and then select "OK" to open a command prompt window. Type "CD/" and press "Enter" to navigate to the root directory of the C drive. "CD/" will always return you to the root directory.
+
+2. mkdir is make directory command to create directory in cmd.
+
+The mkdir command is is used to create new directories. A directory, referred to as a folder in some operating systems, appears to the user as a container for other directories and files.
+
+The simplest way to create a new directory is as follows:
+
+mkdir <foldername> 		
+
+3. The cd command, also known as chdir (change directory)
+
+The cd command is used to change the current directory (i.e., the directory in which the user is currently working) in Linux and other Unix-like operating systems. It is similar to the CD and CHDIR commands in MS-DOS.
+
+Press the "Windows-R" keys on your keyboard, type "CMD" in the Open field in the Run box, and then select "OK" to open a command prompt window. Type "CD/" and press "Enter" to navigate to the root directory of the C drive. "CD/" will always return you to the root directory.
+
+4. The pwd command is a command line utility for printing the current working directory.
+
+It will print the full system path of the current working directory to standard output.
+
+$ pwd/home/himanshu. It's worth mentioning that most shells, including bash, have pwd built-in. Just execute the following command: type -a pwd. And you should get the  output.
+
+5. It writes results to standard output. The ls command supports showing a variety of information about files, sorting on a range of options and recursive listing.
+
+The ls command can be used to show all of the files and folders from the specified path downwards. For example: The above command will show all of the files and folders below the home directory such as Pictures, Music, Videos, Downloads, and Documents
+
+The syntax for the ls command is as follows:
+ls [OPTIONS] [FILES]
+6. mv (short for move) is a Unix command that moves one or more files or directories from one place to another.
+
+The mv command is used to rename and move files and directories. Its general syntax is: The arguments are names of files and directories. If two file names are provided as arguments, mv renames the first as the second.
+
+If you use mv command and specify a file name in the destination, the source file will be renamed to the target_file. mv source_file target_directory/target_file. In the above example, if the target_fille doesn’t exist in the target_directory, it will create the target_file.
+
+7. The rm command is a UNIX and Linux command line utility for removing files or directories on a Linux system.
+
+In computing, rm (short for remove) is a basic command on Unix and Unix-like operating systems used to remove objects such as computer files, directories and symbolic links from file systems and also special files such as device nodes, pipes and sockets, similar to the del command in MS-DOS, OS/2, and Microsoft Windows.
+
+1.	– List the directory contents
+2.	– Enter a command to delete file
+3.	– View if the file has been deleted
+4.	– Enter another command to delete file
+5.	– Confirm if your file has been deleted
+
+
+8. history  In computing, various shells maintain a record of the commands issued by the user during the current session.
+
+In early versions of Unix the history command was a separate program. However, most shells have long included the history command as a shell built-in, so the separate program is no longer in common use.
+
+The history command has the following syntax in bash:[5]
+history [-c] [-d offset] [n] 
+history -awrn [filename] 
+history -ps arg [arg...]
+
+9. A home directory is the directory or folder commonly given to a user on a network or Unix or Linux variant operating system.
+
+Home Directory Definition. A standard subdirectory of the root directory, /home has the sole purpose of containing users' home directories. The root directory, which is designated by a forward slash ( / ), is the directory that contains all other directories and their subdirectories as well as all files on the system.
+1.	Click Start, point to Programs, point to Administrative Tools, and then click Active Directory Users and Computers.
+2.	In the console tree, click Users.
+3.	In the Details pane, right-click the user account, and then click Properties.
+4.	In the Properties dialog box, click Profile.
+5.	Under the Home folder, type the folder information. To do this, follow these steps:
+1.	To assign a home folder on a network server, click Connect, and then specify a drive letter.
+2.	In the To box, type a path. This path can be any one of the following types:
+•	Network path, for example:
+\\server\users\tester
+•	You can substitute username for the last subfolder in the path, for example:
+\\server\users\username
+6.	Note In these examples, server is the name of the file server housing the home folders, and users is the shared folder.
+7.	Click OK.
+
+10. In Linux, the PATH environment variable stores the names of paths that will be searched for the executable files of any commands typed in the command line. The value of the PATH environment variable is a string containing a series of pathnames, each delimited by a colon.
+
+PATH is an environmental variable in Linux and other Unix-like operating systems that tells the shell which directories to search for executable files (i.e., ready-to-run programs) in response to commands issued by a user. It increases both the convenience and the safety of such operating systems and is widely considered to be the single most important environmental variable.
+
+In Linux, the PATH environment variable stores the names of paths that will be searched for the executable files of any commands typed in the command line. The value of the PATH environment variable is a string containing a series of pathnames, each delimited by a colon. For instance, the default PATH on a typical system might look like this:
+/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
