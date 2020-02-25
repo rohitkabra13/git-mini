@@ -45,6 +45,7 @@
 -	The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch, but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
 
 
+
 # Status:
 - The status API allows external services to mark commits with an error, failure, pending, or success state, which is then reflected in pull requests involving those commits.
 
@@ -58,5 +59,25 @@
 
 - A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
 - `master` is a naming convention for a branch.
+
+# Branch:
+
+- A branch is a unique set of code changes with a unique name.
+- When you create a branch in your project, you're creating an environment where you can try out new ideas. Changes you make on a branch don't affect the`master` branch, so you're free to experiment and commit changes, safe in the knowledge that your branch won't be merged until it's ready to be reviewed by someone you're collaborating with.
+- A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master . As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
+
+
+# Pull
+-	Pull Request is the way Github provides for author of the code to share his/her code with others, and to allow others to take a look at your code before you merge it to integration branch and leave comments. 
+
+-	I assume you are using Github. Go to your Github repository and you will see tab called Pull Requests. 
+ 
+-	Click on “New Pull Request” button.  
+ 
+
+
+
+
+
 
 
