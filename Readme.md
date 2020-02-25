@@ -34,4 +34,17 @@
 12. [Pull request](https://github.com/dhrupad09/git-mini/blob/master/Pull%20request.md)
 
 
+# Changelog
+
+- **Dhrupad Solanki**
+1. Name of Repository: git-mini.html
+2. Project Description, Detailed explanation on GIT Command and their definations. 
+
+- **Brij Thota**
+1. Name of the Repository: git-mini.css
+2. Detailed explanation on Github working, Adding a colloborator, Create and Merge Conflict.
+
+- **Rohit Kabra**
+1. Name of the Repository: git-mini2.css
+3. Detailed explanation on Linux text editing, how to use pull request, basic commands and definations using marked down feature.
 
