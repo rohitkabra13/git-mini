@@ -31,5 +31,7 @@
 
 11. [Create & Merge conflict](https://github.com/dhrupad09/git-mini/blob/master/Create%20and%20Merge%20Conflict.md)
 
+12. [Pull request](https://github.com/dhrupad09/git-mini/blob/master/Pull%20request.md)
+
 
 
