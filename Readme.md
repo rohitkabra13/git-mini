@@ -1,4 +1,4 @@
-# git-mini
+# Git-mini
 ## Name of Group Members
 
 - Dhrupad solanki.
@@ -47,4 +47,11 @@
 - **Rohit Kabra**
 1. Name of the Repository: git-mini2.css
 3. Detailed explanation on Linux text editing, how to use pull request, basic commands and definations using marked down feature.
+
+# Section of sources to tutorials:
+
+[Wikipedia](https://en.wikipedia.org/wiki/GitHub)
+[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+[Gitflow](https://guides.github.com/introduction/flow/)
+[Githelp]((https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
