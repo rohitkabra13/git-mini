@@ -73,6 +73,12 @@
 -	I assume you are using Github. Go to your Github repository and you will see tab called Pull Requests. 
  
 -	Click on “New Pull Request” button.  
+
+# Adding a remote
+-	To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
+
+![]( https://user-images.githubusercontent.com/60370155/75202293-cef26a80-5738-11ea-8b8f-d56ce9ecbe4d.png)
+
  
 
 
