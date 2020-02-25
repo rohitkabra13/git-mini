@@ -51,7 +51,10 @@
 # Section of sources to tutorials:
 
 [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
+
 [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
 [Gitflow](https://guides.github.com/introduction/flow/)
+
 [Githelp]((https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
